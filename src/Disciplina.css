@@ -1,0 +1,10 @@
+.Disciplina {
+    display: flex;
+    gap: 0.2em;
+    background-color: blue;
+}
+
+.Disciplina>div {
+    border: 1px solid lightgray;
+    padding: 0.1em;
+}
