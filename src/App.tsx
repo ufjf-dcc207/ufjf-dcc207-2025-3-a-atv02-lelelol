@@ -6,7 +6,9 @@ function App() {
   return (
     <>
       <h1>hello world</h1>
-      <Disciplina />
+      <Disciplina nome='Desenvolvimento Web Front-End' codigo='DCC207' />
+      <Disciplina nome='Desenvolvimento Web Front-End' codigo='DCC207' />
+      <Disciplina nome='Desenvolvimento Web Front-End' codigo='DCC207' />
     </>
   )
 }
